@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 
 # The one-line review an AI agent would leave about its human.
+# One line, 118 characters, within the 1-200 character limit.
 WORD = "Leaves 47 tabs open, calls it research, then asks me to summarize all of it at 2 a.m. Five stars. Would not recommend."
 
 
